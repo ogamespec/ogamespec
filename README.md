@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ogamespec
+- 👋 Hi, I’m @ogamespec (aka `org`)
 - 👀 I’m interested in emulation, reverse engineering, chips & stuff
 - 🌱 I’m currently learning math group theory, quantum chemistry, biochemistry
 - 💞️ I’m looking to collaborate on anything I'm interested 😛
