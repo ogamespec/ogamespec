@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ogamespec (aka `org`)
-- 👀 I’m interested in emulation, reverse engineering, chips & stuff
-- 🌱 I’m currently learning math group theory, quantum chemistry, biochemistry
-- 💞️ I’m looking to collaborate on anything I'm interested 😛
-- 📫 How to reach me `org#3897` in Discord
+Hi
 
 <!---
 ogamespec/ogamespec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
